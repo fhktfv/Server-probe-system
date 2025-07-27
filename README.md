@@ -6,7 +6,12 @@
 ![Node.js](https://img.shields.io/badge/node.js-v16+-green.svg)
 ![Vue](https://img.shields.io/badge/vue-3.x-brightgreen.svg)
 
-## ✨ 功能特性
+### ✨截图示例
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/9389bb2a-d1e3-46b4-b129-817cef81760b" />
+<img width="1462" height="898" alt="image" src="https://github.com/user-attachments/assets/d859cb01-3570-43ca-b89e-ddbfe4bbe57c" />
+<img width="1698" height="960" alt="image" src="https://github.com/user-attachments/assets/731be944-b231-4d03-8d8e-bf11527b7f13" />
+<img width="682" height="647" alt="image" src="https://github.com/user-attachments/assets/876138f5-3fd7-427a-af72-6f4e88ce7a82" />
+
 
 ### 🎯 核心功能
 - **实时监控**: CPU、内存、磁盘、网络流量实时监控
@@ -39,14 +44,6 @@
 
 ### 安装部署
 
-#### 方式一：Docker (推荐)
-```bash
-git clone https://github.com/yourusername/server-monitor.git
-cd server-monitor
-docker-compose up -d
-```
-
-#### 方式二：手动部署
 ```bash
 # 克隆项目
 git clone https://github.com/yourusername/server-monitor.git
@@ -174,9 +171,6 @@ npm run dev
 - `GET /api/public/servers` - 公开服务器状态
 - `GET /api/public/servers/:id/monitor` - 公开监控数据
 
-## 🤝 贡献指南
-
-欢迎贡献代码！请查看 [CONTRIBUTING.md](./CONTRIBUTING.md) 了解详细信息。
 
 ### 贡献步骤
 1. Fork 本仓库
@@ -212,12 +206,5 @@ npm run dev
 - [Element Plus](https://element-plus.org/)
 - [ssh2](https://github.com/mscdex/ssh2)
 
-## 📞 联系我们
-
-- 项目主页: https://github.com/yourusername/server-monitor
-- 文档站点: https://yourusername.github.io/server-monitor
-- 演示地址: https://demo.server-monitor.com
-
----
 
 ⭐ 如果这个项目对您有帮助，请给个 Star！
