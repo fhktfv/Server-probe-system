@@ -192,7 +192,7 @@ npm run dev
 
 如果您遇到问题，请通过以下方式反馈：
 - 提交 [Issue](https://github.com/yourusername/server-monitor/issues)
-- 发送邮件至: your-email@domain.com
+- 发送邮件至: love@fhktfv.top
 
 ## 📄 开源协议
 
