@@ -87,7 +87,7 @@ PORT=3000
 ## 📖 使用说明
 
 ### 1. 登录管理后台
-访问 `http://your-domain:3000/admin` 使用默认账户登录
+访问 `http://ip:3000/admin` 使用默认账户登录
 
 ### 2. 添加服务器
 - 点击"添加服务器"
@@ -97,7 +97,7 @@ PORT=3000
 ### 3. 监控数据
 - 实时查看服务器状态
 - 查看历史监控数据
-- 公开页面展示: `http://your-domain:3000`
+- 公开页面展示: `http://tanzhen.fhktfv.top:3000`
 
 ## 🏗️ 技术架构
 
@@ -170,14 +170,6 @@ npm run dev
 #### 公开API
 - `GET /api/public/servers` - 公开服务器状态
 - `GET /api/public/servers/:id/monitor` - 公开监控数据
-
-
-### 贡献步骤
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
 
 ## 📝 更新日志
 
