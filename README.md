@@ -46,7 +46,7 @@
 
 ```bash
  克隆项目
-git clone https://github.com/yourusername/server-monitor.git
+git clone https://github.com/fhktfv/Server-probe-system.git
 cd server-monitor
 
  安装后端依赖
